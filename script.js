@@ -1,6 +1,10 @@
 const input = document.getElementById("input")
 const previous = document.getElementById("previous")
 
+const yearSpan = document.getElementById("year")
+const currentYear = new Date().getFullYear()
+yearSpan.innerText = currentYear
+
 let previousNum = null
 let equalsBlocked = false
 
