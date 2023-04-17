@@ -1,6 +1,6 @@
 This is project of a calculator
 
-Link: https://maciek367.github.io/calculator/
+Link: https://maciejbaba.github.io/calculator/
 
 In this project I practiced a little bit of HTML, CSS. Much more JavaScript, the hardest part of the project was obviously logic.
 
